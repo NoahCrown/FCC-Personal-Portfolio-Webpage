@@ -3,4 +3,4 @@ Complete the final project required in the FreeCodeCamp "Responsive Web Design C
 * HTML
 * CSS
 
-![127 0 0 1_5500_index html (4)](https://user-images.githubusercontent.com/91674419/178517274-8afafac1-6b8d-41ad-bcd4-2d6b59ef32c6.png)
+![127 0 0 1_5500_index html (5)](https://user-images.githubusercontent.com/91674419/178517442-0efd1bed-d56d-45b2-8a2f-431c53011c27.png)
